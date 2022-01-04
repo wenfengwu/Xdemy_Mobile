@@ -1,4 +1,4 @@
-1.This is a online learning platform for mobile, build with Java(backend), Vue(Frontend), Cube-UI(mobile layout), Spingboot(backend Famework), 
+<!-- 1.This is a online learning platform for mobile, build with Java(backend), Vue(Frontend), Cube-UI(mobile layout), Spingboot(backend Famework), 
 Guava(Caching), Mybatis(Connect backend and database), MySQL(database)
 
 
@@ -31,7 +31,7 @@ App demo:
 
 
     2. Purchased Courses:
-    ![](demo/courses_page.jpg)
+    ![](demo/courses_page.jpg) -->
 
 
     ![](demo/courses_page.jpg)
