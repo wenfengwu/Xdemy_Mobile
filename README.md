@@ -34,7 +34,7 @@ App demo:
     ![](demo/courses_page.jpg) -->
 
 
-    ![](demo/courses_page.jpg)
+![](demo/courses_page.jpg)
 
     
 
