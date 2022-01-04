@@ -1,1 +1,1 @@
-![](demo\course detail.jpg)
+![heihei](demo\course detail.jpg)
