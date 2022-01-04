@@ -11,11 +11,11 @@ App demo:
     Public Route:
 
     1. Login and Register:
-![](demo\course_detail.jpg)
+![](demo/course_detail.jpg)
 
 
     2. Main Page:
-![](demo/main_page.jpg)
+![](demo/main_page.PNG)
 
     
     3. Course Detial:
