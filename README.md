@@ -1,10 +1,10 @@
-1. This is a online learning platform for mobile, build with Java(backend), Vue(Frontend), Cube-UI(mobile layout), Spingboot(backend Famework), 
+1.This is a online learning platform for mobile, build with Java(backend), Vue(Frontend), Cube-UI(mobile layout), Spingboot(backend Famework), 
 Guava(Caching), Mybatis(Connect backend and database), MySQL(database)
 
 
-2. Please set up backend environment, make sure using Java 1.8 JDK, check your database connnetion such as schema name, connection port is 8089
+2.Please set up backend environment, make sure using Java 1.8 JDK, check your database connnetion such as schema name, connection port is 8089
 
-3. Please set up the frontend environment, go the frontend direction, using "npm install" get all dependencies, entire port is localhost:8080/
+3.Please set up the frontend environment, go the frontend direction, using "npm install" get all dependencies, entire port is localhost:8080/
 
 App demo:
 
@@ -19,7 +19,7 @@ App demo:
 
     
     3. Course Detial:
-    ![](demo/course_detail.jpg)
+    ![](demo/Login.jpg)
 
 
 
