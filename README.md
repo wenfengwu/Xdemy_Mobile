@@ -11,7 +11,7 @@ App demo:
     Public Route:
 
     1. Login and Register:
-        ![](demo/Login.jpg)
+        ![](demo\course_detail.jpg)
 
 
     2. Main Page:
@@ -27,10 +27,13 @@ App demo:
     Private Route:
 
     1. Course Order:
-        ![](demo/course_order.jpg)
+    ![](demo/course_order.jpg)
 
 
     2. Purchased Courses:
+    ![](demo/courses_page.jpg)
+
+
     ![](demo/courses_page.jpg)
 
     
